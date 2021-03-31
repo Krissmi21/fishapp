@@ -1,0 +1,184 @@
+{
+  "project_info": {
+    "project_number": "169717379991",
+    "project_id": "fishlens-a078a",
+    "storage_bucket": "fishlens-a078a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169717379991:android:c473906e03c9d8150ccad2",
+        "android_client_info": {
+          "package_name": "com.example.fish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNNs7j-JZRybO-rLsssF3HFmpqrPOdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169717379991:android:0c8376b4fdf435620ccad2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_image_label"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNNs7j-JZRybO-rLsssF3HFmpqrPOdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169717379991:android:b7cbd2eda37cb68f0ccad2",
+        "android_client_info": {
+          "package_name": "com.krissmi.k"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNNs7j-JZRybO-rLsssF3HFmpqrPOdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169717379991:android:ddb8f60dbe08b6be0ccad2",
+        "android_client_info": {
+          "package_name": "krissmi.fish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNNs7j-JZRybO-rLsssF3HFmpqrPOdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169717379991:android:b23744e5053adc390ccad2",
+        "android_client_info": {
+          "package_name": "krissmi.fishh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNNs7j-JZRybO-rLsssF3HFmpqrPOdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169717379991:android:a9071878efc956c20ccad2",
+        "android_client_info": {
+          "package_name": "krissmi.fishlens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNNs7j-JZRybO-rLsssF3HFmpqrPOdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169717379991-gljrs9deshpecj4la7l2458do87ino7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
