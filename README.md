@@ -5,5 +5,5 @@ FishLens is an app created to encourage sustainable fishing. It is aimed to redu
 
 Who maintains and contributes to the project
 
-Mohammed Rayyan and Krissmitha Kathirkamanathan
+Krissmitha Kathirkamanathan
 
